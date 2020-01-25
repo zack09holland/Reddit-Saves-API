@@ -1,0 +1,10 @@
+[Python] Instantly Download any song without knowing the name.
+http://redd.it/3lpgzz
+[Python] Is there a 'beautiful code' collection for Python?
+http://redd.it/3jdrw1
+[Python] Soccer CLI - A command line tool for all soccer scores
+http://redd.it/3j8qkl
+[Python] Visualizing earthquakes with HoloViews and Bokeh
+http://redd.it/3j7xve
+[Python] tomviz: a Python platform for 3D volumetric data processing and visuali...
+http://redd.it/3j3b6l
